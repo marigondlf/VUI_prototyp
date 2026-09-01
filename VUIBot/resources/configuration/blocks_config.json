@@ -1,0 +1,8 @@
+{
+    "conversation_1_block": {
+        "trials": "resources/configuration/trials_config/conversation_1_trials.json",
+        "num_trials_to_sample": 8,
+        "num_alts": 0,
+        "randomize": false
+    }
+}

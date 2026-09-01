@@ -1,0 +1,16 @@
+{
+    "session_code_entry": {
+        "template": "session_code_entry",
+        "code": "code"
+    },
+    "voicebot_conversation_1": {
+        "template": "voicebot",
+        "block": "conversation_1_block",
+        "bot_name": "companion_bot",
+        "min_words": 3
+    },
+  "session_code_display": {
+    "template": "session_code_display",
+    "code": "code"
+  }
+}

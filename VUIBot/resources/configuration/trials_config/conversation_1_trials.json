@@ -1,0 +1,90 @@
+[
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Guten Morgen! Wie haben Sie geschlafen?"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_1_greeting.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_1_greeting.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Danke fürs Teilen. Woran haben Sie sich denn erinnert, als Sie aufgewacht sind?"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_2_reminisce.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_2_reminisce.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Erzählen Sie mir mehr davon, das hört sich nach einer schönen Erinnerung an."
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_3_deepen.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_3_deepen.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Das klingt wirklich schön. Das erinnert mich an ein Lied, und ich würde es gerne für Sie spielen!"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_4_song.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_4_song.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Das hat mir richtig gutgetan, das Lied mit Ihnen zu hören. Sagen Sie, was haben Sie sich denn für heute Vormittag noch vorgenommen?"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_5_cognitive.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_5_cognitive.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Schön, viel Spaß damit! Wir sprechen uns wieder, bevor es Mittag wird um zwölf. Wie viele Minuten bleiben Ihnen dafür noch?"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_6_math.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_6_math.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Bevor wir uns verabschieden. Haben Sie heute schon genug getrunken? Ich mache mir da immer ein bisschen Sorgen um Sie."
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_7_health.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_7_health.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Es hat mir richtig Freude gemacht, mit Ihnen zu reden. Wir sprechen später weiter, genießen Sie erstmal Ihren Vormittag."
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_8_close.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_8_close.mp3"
+        }
+    }
+]
