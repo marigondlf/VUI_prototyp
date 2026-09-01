@@ -68,12 +68,34 @@
     {
         "prompter": {
             "type": "text",
-            "value": "Bevor wir uns verabschieden. Haben Sie heute schon genug getrunken? Ich mache mir da immer ein bisschen Sorgen um Sie."
+            "value": "Sie sind ja richtig fit im Kopf! Können Sie mir kurz helfen? Ich höre gerade ein Geräusch, aber als Maschine kann ich es nicht genau erkennen. "
         },
         "responses": {
             "type": "audio",
-            "main_value": "resources/assets/audio/conversation_1/turn_7_health.mp3",
-            "alt_value": "resources/assets/audio/conversation_1/turn_7_health.mp3"
+            "main_value": "resources/assets/audio/conversation_1/turn_7_animal_noise.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_7_animal_noise.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "image",
+            "value": "resources/assets/images/conversation_1/animalcollage.webp"
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_8_noise.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_8_noise.mp3"
+        }
+    },
+    {
+        "prompter": {
+            "type": "text",
+            "value": "Vielen Dank für die Hilfe! Bevor wir uns verabschieden. Haben Sie heute schon genug getrunken? Ich mache mir da immer ein bisschen Sorgen um Sie."
+        },
+        "responses": {
+            "type": "audio",
+            "main_value": "resources/assets/audio/conversation_1/turn_9_health.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_9_health.mp3"
         }
     },
     {
@@ -83,8 +105,8 @@
         },
         "responses": {
             "type": "audio",
-            "main_value": "resources/assets/audio/conversation_1/turn_8_close.mp3",
-            "alt_value": "resources/assets/audio/conversation_1/turn_8_close.mp3"
+            "main_value": "resources/assets/audio/conversation_1/turn_10_close.mp3",
+            "alt_value": "resources/assets/audio/conversation_1/turn_10_close.mp3"
         }
     }
 ]
